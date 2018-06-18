@@ -85,6 +85,7 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\drawable\plus.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable-hdpi\" />
@@ -95,7 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XamarinFloatingActionButtonExemplo\XamarinFloatingActionButtonExemplo.csproj">
-      <Project>{A07CD47A-F1A7-442B-AC4C-B823A255852E}</Project>
+      <Project>{458EC8C2-8F95-4EE6-937B-650241881583}</Project>
       <Name>XamarinFloatingActionButtonExemplo</Name>
     </ProjectReference>
   </ItemGroup>
